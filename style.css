@@ -1,0 +1,54 @@
+.images {
+    width: 100%;
+}
+
+.num_page {
+    padding: 4px 12px 4px 12px;
+    border: 1px solid black;
+    margin: 10px 10px 10px 0px;
+    width: 35px;
+    height: 35px;
+}
+
+.current_page{
+    padding: 4px 12px 4px 12px;
+    border: 1px solid black;
+    margin: 10px 10px 10px 0px;
+    width: 35px;
+    height: 35px;
+}
+
+.div_container{
+    margin-top: 2%;
+}
+
+.div_col{
+    padding: 1%;
+    box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+h4.shoes_h4 {
+    text-align: center;
+}
+
+p.shoes_p {
+    text-align: center;
+}
+
+del {
+    margin-left: 25%;
+}
+
+.buy_product {
+    border: 1px solid black;
+    width: 50%;
+    padding: 3%;
+    text-align: center;
+    margin: auto;
+    background-color: #c5c2bc;
+}
+
+a.a_buy_product {
+    text-decoration: none;
+    color: blue;
+}
